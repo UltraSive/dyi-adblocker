@@ -27,4 +27,5 @@ An ad blocking chrome extension that blocks content based on domain names
  - Reload the extension
 
 # Credits
+The starter code which we forked from [github.com/AdrS/dyi-adblocker](https://github.com/AdrS/dyi-adblocker)
 The blacklist is from [github.com/StevenBlack/hosts](https://github.com/StevenBlack/hosts)
